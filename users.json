@@ -1,0 +1,117 @@
+{
+    "7214885905": {
+        "username": "jamshid2232",
+        "balans": 397208,
+        "spent": 4001,
+        "referallar": [
+            7102350250,
+            7102350250
+        ],
+        "balance": 20000,
+        "total_earned": 120600,
+        "last_active": "2025-10-27 20:20:21",
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 20000,
+                "reason": "Admin tomonidan qo'shildi",
+                "date": "2025-10-27 16:53:09",
+                "old_balance": 276609,
+                "new_balance": 296609
+            },
+            {
+                "type": "deposit",
+                "amount": 20000,
+                "reason": "Admin tomonidan qo'shildi",
+                "date": "2025-10-27 16:54:13",
+                "old_balance": 296609,
+                "new_balance": 316609
+            },
+            {
+                "type": "deposit",
+                "amount": 20000,
+                "reason": "Admin tomonidan qo'shildi",
+                "date": "2025-10-27 16:56:44",
+                "old_balance": 316609,
+                "new_balance": 336609
+            },
+            {
+                "type": "withdraw",
+                "amount": 1,
+                "reason": "Admin tomonidan ayirildi",
+                "date": "2025-10-27 16:58:03",
+                "old_balance": 336609,
+                "new_balance": 336608
+            },
+            {
+                "type": "deposit",
+                "amount": 20000,
+                "reason": "Admin tomonidan qo'shildi",
+                "date": "2025-10-27 17:43:29",
+                "old_balance": 336608,
+                "new_balance": 356608
+            },
+            {
+                "type": "deposit",
+                "amount": 300,
+                "reason": "Referal bonus",
+                "date": "2025-10-27 18:46:35",
+                "old_balance": 356608,
+                "new_balance": 356908
+            },
+            {
+                "type": "deposit",
+                "amount": 300,
+                "reason": "Referal bonus",
+                "date": "2025-10-27 20:08:29",
+                "old_balance": 356908,
+                "new_balance": 357208
+            },
+            {
+                "type": "deposit",
+                "amount": 20000,
+                "reason": "Admin tomonidan qo'shildi",
+                "date": "2025-10-27 20:20:16",
+                "old_balance": 357208,
+                "new_balance": 377208
+            },
+            {
+                "type": "deposit",
+                "amount": 20000,
+                "reason": "Admin tomonidan qo'shildi",
+                "date": "2025-10-27 20:20:21",
+                "old_balance": 377208,
+                "new_balance": 397208
+            }
+        ],
+        "total_withdrawn": 1,
+        "pending_withdraw": 2000
+    },
+    "7102350250": {
+        "username": "Muminovv_vv",
+        "balans": 205000,
+        "spent": 4000,
+        "referallar": [],
+        "total_earned": 200000,
+        "last_active": "2025-10-27 20:28:58",
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 200000,
+                "reason": "Admin tomonidan qo'shildi",
+                "date": "2025-10-27 16:55:48",
+                "old_balance": 7000,
+                "new_balance": 207000
+            },
+            {
+                "type": "withdraw",
+                "amount": 2000,
+                "reason": "Pul yechish",
+                "date": "2025-10-27 20:28:58",
+                "old_balance": 207000,
+                "new_balance": 205000
+            }
+        ],
+        "total_withdrawn": 2000
+    }
+}
